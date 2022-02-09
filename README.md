@@ -1,14 +1,18 @@
 # branchMe
 
 **Aufgabe**
-##Teil 1
+
+## Teil 1
+
 Erstelle ein neues Repository auf Github branchMe (mit README und public)
 Clone das Repository auf deinen Rechner
 Schreib in die README, z.B. den Text dieser Aufgabe
 
 --> Vergiss nicht zu deine Änderungen zu speichern, wenn du unsicher bist checke immer mit git status ob alles aktuell ist
 --> Push deine Änderungen zu github
+
 ## Teil 2
+
 Alle Schritte bei euch Lokal, ihr verändert nichts auf github außer ihr pusht!
 Erstelle 2 neue Branches (noch nicht dort reinwechseln!!): body & index
 Checke mit git branch, dass du im main branch bist und ob die beiden neuen Branches existieren
@@ -25,6 +29,7 @@ Wechsel in den Branch body und ändere in der index :
   </main>
 8. Adden und commiten
 9. Auch den Branch pushst du zu github
+
 ## Teil 3 - Bonus
 Geh zu Github(! nicht lokal!!) und erstelle für die neuen Branches jeweils einen Pull Request um diesen danach in die Main einzufügen (merge), löse die entstandenen Konflikte auf
 Wenn die Branches in in die main eingefügt wurden, zieh dir die aktuelle Version mit (git pull) zurück auf deinen Rechner
